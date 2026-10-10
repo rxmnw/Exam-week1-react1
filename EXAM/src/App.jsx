@@ -444,8 +444,7 @@ function App() {
 
 </section>
 
-{/* ================= CRUD ================= */}
-<div className='search-wrap max-w-[900px] m-auto my-[50px] p-[15px] flex flex-col gap-[25px]'>
+ <div className='search-wrap max-w-[900px] m-auto my-[50px] p-[15px] flex flex-col gap-[25px]'>
 
 <h1 className='text-[28px] xl:text-[40px] font-medium text-[#493E3E] text-center xl:text-left'>Список клиентов</h1>
 
